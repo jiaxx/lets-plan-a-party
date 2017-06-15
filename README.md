@@ -18,3 +18,4 @@ Date & Time:
 ## Activities
 
 - dominoes
+- checkers
