@@ -14,7 +14,6 @@ Date & Time:
 - chips
 - salsa
 - Freemont IPA
-- guacamole
 
 ## Activities
 
