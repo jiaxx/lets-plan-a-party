@@ -13,6 +13,7 @@ Date & Time:
 
 - chips
 - salsa
+- Freemont IPA
 
 ## Activities
 
